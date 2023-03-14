@@ -16,3 +16,17 @@ switch(choice){
 
     default : console.log("Invalid choice");
 }
+
+
+var b=3;
+switch(b){
+
+  case 1:
+  case 2:
+  case 3:
+  case 4:
+  case 5:
+  case 6: console.log("Valid");
+    break;
+  default: console.log("Invalid");
+}
