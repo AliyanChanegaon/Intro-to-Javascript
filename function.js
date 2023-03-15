@@ -1,6 +1,3 @@
-
-
-// Function declaration.
 function name() {
   let name = 'Aliyan';
   console.log(name);
