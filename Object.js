@@ -14,8 +14,9 @@ var student = {
 // ways to access value at a particular key
 // 1st. Bracket notation
 
+let a = "name"
 
-console.log(student["name"]);
+console.log(student[a]);
 
 console.log(student["age"]);
 
